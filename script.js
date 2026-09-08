@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
 
-```
+
 // Seleciona os elementos
 const likeBtn = document.querySelector(".like-btn");
 const likesCountSpan = document.querySelector(".likes-count");
@@ -165,6 +165,5 @@ if (bookmarkBtn) {
 // ============================
 
 updateLikes();
-```
 
 });
